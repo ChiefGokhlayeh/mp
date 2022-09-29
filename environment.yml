@@ -1,0 +1,8 @@
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - pre-commit
+  - python=3.10
+  - six
