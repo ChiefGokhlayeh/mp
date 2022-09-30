@@ -2,7 +2,13 @@ channels:
   - conda-forge
 
 dependencies:
+  - black
+  - flake8
+  - isort
+  - nbQA
+  - nbstripout
   - numpy
   - pre-commit
   - python=3.10
+  - pyupgrade
   - six
