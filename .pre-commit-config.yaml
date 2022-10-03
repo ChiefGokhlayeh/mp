@@ -9,11 +9,11 @@ repos:
         exclude: '(.*\.ipynb)'
       - id: trailing-whitespace
   - repo: https://github.com/psf/black
-    rev: 22.6.0
+    rev: 22.8.0
     hooks:
       - id: black-jupyter
   - repo: https://github.com/nbQA-dev/nbQA
-    rev: 1.4.0
+    rev: 1.5.2
     hooks:
       - id: nbqa-check-ast
       - id: nbqa-flake8
@@ -28,7 +28,7 @@ repos:
         args:
           - --config-precedence=file-override
   - repo: https://github.com/kynan/nbstripout
-    rev: 0.6.0
+    rev: 0.6.1
     hooks:
       - id: nbstripout
   - repo: meta
