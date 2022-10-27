@@ -4,6 +4,7 @@ channels:
 dependencies:
   - black
   - flake8
+  - ipykernel
   - ipython
   - isort
   - nbQA
