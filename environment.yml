@@ -4,11 +4,14 @@ channels:
 dependencies:
   - black
   - flake8
+  - ipython
   - isort
   - nbQA
   - nbstripout
   - numpy
   - pre-commit
+  - pycairo
+  - python-graphviz
   - python=3.10
   - pyupgrade
   - six
