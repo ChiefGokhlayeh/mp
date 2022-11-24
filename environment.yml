@@ -11,6 +11,7 @@ dependencies:
   - nbQA
   - nbstripout
   - numpy
+  - pandas
   - pre-commit
   - pycairo
   - python-graphviz
