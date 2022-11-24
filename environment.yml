@@ -7,6 +7,7 @@ dependencies:
   - ipykernel
   - ipython
   - isort
+  - matplotlib
   - nbQA
   - nbstripout
   - numpy
