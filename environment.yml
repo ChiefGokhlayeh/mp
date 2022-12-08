@@ -6,6 +6,7 @@ dependencies:
   - flake8
   - ipykernel
   - ipython
+  - ipywidgets
   - isort
   - matplotlib
   - nbQA
