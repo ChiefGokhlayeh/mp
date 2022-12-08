@@ -18,4 +18,5 @@ dependencies:
   - python-graphviz
   - python=3.10
   - pyupgrade
+  - requests
   - six
