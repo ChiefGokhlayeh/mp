@@ -3,6 +3,7 @@ channels:
 
 dependencies:
   - black
+  - casadi
   - flake8
   - ipykernel
   - ipython
@@ -19,4 +20,5 @@ dependencies:
   - python=3.10
   - pyupgrade
   - requests
+  - scipy
   - six
